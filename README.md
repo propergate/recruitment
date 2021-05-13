@@ -1,4 +1,4 @@
-[![propergate.co](https://github.com/propergate/recruitment/blob/main/images/ propergate.png?raw=true "propergate.co")](https://propergate.co "propergate.co")
+[![propergate.co](https://github.com/propergate/recruitment/blob/main/images/propergate.png?raw=true "propergate.co")](https://propergate.co "propergate.co")
 
 # Developer Recruitment Tasks
 
